@@ -1,6 +1,6 @@
 Trabalho Prático – Simulação da Propagação de Vírus!
 ===================
-----------
+
 
 Este repositório contém o trabalho prático da cadeira de Programação do Instituto de Engenharia de Coimbra realizado no ano letivo 2019/20 por Diogo Pascoal.
 
