@@ -13,6 +13,11 @@ int main() {
 
     setbuf(stdout,0); //evitar bug com a consola
 
+    //bla bla bla alteracoes
+
+
+    
+
     //iniciar random numbers
     initRandom();
     
